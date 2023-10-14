@@ -1,8 +1,6 @@
 # 삼육대학교 메타버스
 
 ## Devigation
-Back-end Repository
-capston design back end repository
+Back-end Repository <a href="https://github.com/CapstionDesign/back-end">
 
-Front-end Repository
-capston design front end repository
+Front-end Repository <a href="https://github.com/CapstionDesign/front-end">
